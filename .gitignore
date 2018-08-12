@@ -1,0 +1,4 @@
+dapp2_env
+*.pyc
+.DS_Store
+.env
